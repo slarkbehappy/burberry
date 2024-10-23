@@ -5,7 +5,7 @@ edition = "2021"
 rust-version = "1.76"
 
 [dependencies]
-alloy = { version = "0.4", features = [ "full" ] }
+alloy = { version = "0.3", features = [ "full" ] }
 async-stream = "0.3"
 async-trait = "0.1"
 eyre = "0.6"
